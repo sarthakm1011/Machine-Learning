@@ -1,13 +1,13 @@
 # Machine-Learning
-#### Hands-on ML course in Python. Various supervised/unsupervised learning algorithms &amp; implemented from scratch.####
+#### Hands-on ML course in Python. Various supervised/unsupervised learning algorithms &amp; implemented from scratch.
 
 ## Details ##
     In this course, students will follow industry-standard programming practices to build intelligent systems, working on AI algorithms and data crunching
 - - - -
 ## Mathematical Concepts ##
     Course will start with basic understanding of logic. We will be discussing about Flowcharts, PsudoCode and students will solve also some of the Puzzles in initial classes.
-    1) Introduction to Machine Learning
-    2) Python 3.5 overview
+    ###1) Introduction to Machine Learning
+    ###2) Python 3.5 overview
     3) Linear Algebra
     4) Statistics and Probability
     5) Numpy, Scipy, and Scientific computation with Python
